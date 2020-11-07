@@ -1,0 +1,24 @@
+{
+  "cursos": {
+    "data": [
+      {
+        "id": "01",
+        "nome": "Data Science for Beginners",
+        "platform": "Udemy",
+        "level": "Beginner"
+      },
+      {
+        "id": "02",
+        "nome": "Machine Learning - Predict Analysis",
+        "platform": "Udemy",
+        "level": "Senior"
+      },
+      {
+        "id": "03",
+        "nome": "Power BI Expert",
+        "platform": "Udemy",
+        "level": "Hard"
+      }
+    ]
+  }
+}
